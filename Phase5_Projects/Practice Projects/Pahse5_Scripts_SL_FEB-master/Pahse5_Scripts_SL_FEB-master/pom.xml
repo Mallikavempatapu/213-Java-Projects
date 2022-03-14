@@ -16,6 +16,6 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
     <build>
-    	<finalName>selenium_web-automation</finalName>
+      <finalName>selenium_web-automation</finalName>
     </build>
 </project>
